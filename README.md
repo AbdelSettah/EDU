@@ -1,0 +1,2 @@
+# EDU
+Student Education Platform
